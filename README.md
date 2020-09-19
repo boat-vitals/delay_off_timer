@@ -5,17 +5,21 @@ Hardware :
 1. One Channel Wemos D1 Mini Relay Shield Wemos D1 Mini Relay Module for ESP8266 Development Board 1 channel
     ( https://www.aliexpress.com/item/32728319939.html )
     
-    ![Cat](https://github.com/i4things/NodeAPI/blob/master/examples/ESP8266-01/1CH_RELAY/thing/Sonoff_ESP8266.jpg)
+    ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/relay.jpg)
     
 
 2. Wemos Mini D1 ESP32 WIFI Bluetooth CP2104 Development Board Module 
     ( https://www.aliexpress.com/item/32839344778.html )
+    
+    ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/wemos_esp32.jpg)
 	
 3. 1x resistor 7.5K and 1x resistor 30K 
     ( https://www.aliexpress.com/item/4000773915011.html )
 	
 4. DC-DC 9V 12V 24V to 5V 3A Step Down Power Module CAR Charger / Mobile power
     ( https://www.aliexpress.com/item/32833730316.html )
+    
+     ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/dc_dc.jpg)
 	
 5.  Enclosure 65x50x55mm(LxWxH): AG Series High-end Quality IP67 Waterproof DIY Electrical Junction Box ABS plastic RoHS Enclosure Case Outdoor Distribution box
     ( https://www.aliexpress.com/item/4000375281151.html )
@@ -33,6 +37,10 @@ Connections:
 9. Relay Shield NO ( left screw terminal of the relay ) to red/white cable for "+" 12v to the pump (with cable terminal on the other end)
 10. DC-DC module input ("-") to black cable for "-" power supplay 12v (with cable terminal on the other end)
 12. Make an opening for the 3 cables on the enclosure box and put everything together and seal with sikaflex
+
+ ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/ex1.jpg)
+ 
+ ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/ex2.jpg)
 
 For initial software flash or factory reset please follow the steps:
 
