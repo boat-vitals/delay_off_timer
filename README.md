@@ -4,6 +4,9 @@ Hardware :
 
 1. One Channel Wemos D1 Mini Relay Shield Wemos D1 Mini Relay Module for ESP8266 Development Board 1 channel
     ( https://www.aliexpress.com/item/32728319939.html )
+    
+    ![Cat](https://github.com/i4things/NodeAPI/blob/master/examples/ESP8266-01/1CH_RELAY/thing/Sonoff_ESP8266.jpg)
+    
 
 2. Wemos Mini D1 ESP32 WIFI Bluetooth CP2104 Development Board Module 
     ( https://www.aliexpress.com/item/32839344778.html )
@@ -25,7 +28,7 @@ Connections:
 4. Resistor 7.5K to IO23 and GND
 5. DC-DC module outputs to Wemos ESP32 board VCC ("+") and GND ("-")
 6. DC-DC module input ("+") to Relay Shield inout ( middle screw terminal of the relay )
-7. Relay Shield inout ( middle screw terminal of the relay ) to red cable for "+" 12v input/power (with cable terminal on the other end)
+7. Relay Shield input ( middle screw terminal of the relay ) to red cable for "+" 12v input/power (with cable terminal on the other end)
 8. Resistor 30K ( other end ) to Relay Shield NO ( left screw terminal of the relay )
 9. Relay Shield NO ( left screw terminal of the relay ) to red/white cable for "+" 12v to the pump (with cable terminal on the other end)
 10. DC-DC module input ("-") to black cable for "-" power supplay 12v (with cable terminal on the other end)
