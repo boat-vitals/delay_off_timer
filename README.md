@@ -40,6 +40,8 @@ Connections:
 
  ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/ex1.jpg)
  
+  ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/ex3.jpg)
+ 
  ![Cat](https://github.com/boat-vitals/delay_off_timer/blob/master/ex2.jpg)
 
 For initial software flash or factory reset please follow the steps:
